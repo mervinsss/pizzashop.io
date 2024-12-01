@@ -1,1 +1,1 @@
-# pizzashop.io
+# pizzashop
